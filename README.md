@@ -1,6 +1,7 @@
 # kubeimg
 ## 安装
 ```shell
+curl https://github.com/hejianlai/kubeimg/releases/download/v1.0/kubeimg
 mv kubeimg /usr/local/bin/
 chmod +x /usr/local/bin/kubeimg
 ```
