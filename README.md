@@ -5,7 +5,7 @@ curl https://github.com/hejianlai/kubeimg/releases/download/v1.0/kubeimg
 mv kubeimg /usr/local/bin/
 chmod +x /usr/local/bin/kubeimg
 ```
-## 搞了个工具方便查询应用镜像版本，使用命令：
+## 使用命令
 ### 默认查所有namespace
 ```
 kubeimg image
